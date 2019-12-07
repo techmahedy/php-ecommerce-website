@@ -1,0 +1,17 @@
+if you want to access this project then just do this following step one after another
+1: create a database whose name will be "db_shopper"
+2: then import the "db_shopper.sql" file into your database from sql folder
+
+then write the following text on your browser url ->
+localhost/shopper/admin to access admin panel
+
+3: username: Admin
+4: password: 1234
+
+then write the following text on your browser url ->
+localhost/shopper  to see project front view
+
+thanks 
+follow me on facebook:https://www.facebook.com/niloy.afnan.18
+follow me on github:https://github.com/Mahedi150101
+
